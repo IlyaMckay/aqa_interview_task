@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5021","Search for the weather in the city where I am","","Thu May 15 01:17:52 ART 2025","passed","Thu May 15 01:17:57 ART 2025","","","",""
+"","9277","Search for ""London"", open the first result, go back, open the first city in recent locations","","Thu May 15 01:18:04 ART 2025","passed","Thu May 15 01:18:14 ART 2025","","","",""
+"","11143","Go to the settings, change measurement units, go back, check if units changed","","Thu May 15 01:18:35 ART 2025","passed","Thu May 15 01:18:46 ART 2025","","","",""
+"","8379","Search for ""New York"" and check if it is matches the page header","","Thu May 15 01:18:20 ART 2025","passed","Thu May 15 01:18:28 ART 2025","","","",""
