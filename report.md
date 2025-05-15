@@ -9,3 +9,14 @@
 | 14.05.25 | Working on the remaining 15% | 4:38 | Spent a lot of time on Chromium and Webkit making them work (had the same problem with the go_back() in-build method using both systems), finished the task
 | 15.05.25 | Extending the 14.05.25, reporting and test assignment submission | 1:54 | Prepared all the necessary reports and links
 | **Sum** | | **21:10** | |
+
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://wakatime.com/share/@af6dcbd3-bb07-4e16-aadb-02f6c999d678/551008d5-7292-4595-9240-0fa17e19c801.svg" width="500" alt="Wakatime Coding Activities" />
+    </td>
+    <td align="right">
+      <img src="https://wakatime.com/share/@af6dcbd3-bb07-4e16-aadb-02f6c999d678/e0059969-8ff2-4646-81d1-726b126292a5.svg" width="500" alt="Wakatime Languages" />
+    </td>
+  </tr>
+</table>
