@@ -8,4 +8,4 @@
 | 13.05.25 | Extending the 12.05.25 | 1:38 | Finished 75% of the interview task
 | 14.05.25 | Working on the remaining 15% | 4:38 | Spent a lot of time on Chromium and Webkit making them work (had the same problem with the go_back() in-build method using both systems), finished the task
 | 15.05.25 | Extending the 14.05.25, reporting and test assignment submission | 1:54 | Prepared all the necessary reports and links
-| **Sum** | | **18:46** | |
+| **Sum** | | **21:10** | |
